@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BuscarEndereco</string>
+    <string name="labelCep">Cep</string>
+    <string name="labelEndereco">Endereço:</string>
+    <string name="labelBairro">Bairro:</string>
+    <string name="labelCidade">Cidade:</string>
+    <string name="labelEstado">Estado:</string>
+    <string name="btnBuscar">Buscar</string>
+</resources>
